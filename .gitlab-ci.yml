@@ -9,7 +9,7 @@ before_script:
 # - pip install mkdocs-material
 pages:
     script:
-        - cd /my-project/pages
+        - cd my-project/pages
         - mkdocs build
         - mv site ../public
     artifacts:
