@@ -1,0 +1,5 @@
+site_name: Mikkel Krüger Larsen
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
