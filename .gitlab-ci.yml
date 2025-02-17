@@ -11,7 +11,7 @@ pages:
     script:
         - cd my-project/pages
         - mkdocs build
-        - mv site ../public
+        - mv site ../../public
     artifacts:
         paths:
         - public
