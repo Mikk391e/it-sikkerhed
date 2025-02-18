@@ -60,3 +60,4 @@ Det her er billederne af min kode i VS Code:
     (Hvis billederne er svære at se, kan disse ses i Gitlab repositoriet)
 
 3. Send linket til en på dit team og spørg om personen vil vurdere og give feedback på din dokumentation.
+

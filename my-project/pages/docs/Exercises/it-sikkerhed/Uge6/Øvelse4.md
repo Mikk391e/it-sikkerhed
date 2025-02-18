@@ -8,7 +8,7 @@
 
 2. Dan dig et overblik over hvad der står i "Studieordning Institutionel del 2022 (først gældende fra 1.feb)", hvad indeholder den og hvad står under de forskellige sektioner. Noter de spørgsmål du har til den Institutionel del af studieordningen.
 
-    ![image.png](../../../Images/ØvelsesBilleder/Uge6Øvelse4.png)
+    ![image.png](../../../Images/ØvelsesBilleder/ITSUge6Øvelse4.png)
 
     ---
 

@@ -2,7 +2,10 @@ site_name: Mikkel Krüger Larsen - Professionsbachelor i it-sikkerhed
 nav:
   - Hjem: index.md
   - Skabelon: Skabelon.md
-  - Intro Til it-sikkerhed: IntroduktionTilItSikkerhed.md
+  - Intro til it-sikkerhed: IntroduktionTilItSikkerhed.md
+  - System sikkerhed: SystemSikkerhed.md
+  - Projekt og Rapport: ProjektOgRapport.md
+  - Netværk og kommunikationssikkerhed: NetværksSikkerhed.md
 repo_url: https://gitlab.com/Mikk391e/it-sikkerhed
 repo_name: Mikk391e/it-sikkerhed
 theme:
