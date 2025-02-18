@@ -56,4 +56,7 @@ Det her er billedet af min fil på gitlab:
 Det her er billederne af min kode i VS Code:
     ![BilledeAfSkabelonMD1/2](Images/Skabelon_md1-2.png)
     ![BilledeAfSkabelonMD2/2](Images/Skabelon_md2-2.png)
+
+    (Hvis billederne er svære at se, kan disse ses i Gitlab repositoriet)
+
 3. Send linket til en på dit team og spørg om personen vil vurdere og give feedback på din dokumentation.
