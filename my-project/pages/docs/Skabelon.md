@@ -10,7 +10,7 @@
 
 ## Ressourcer
 
-#### Hvis vi tager denne opgave som et eksempel, så kunne det se ud således:
+Hvis vi udgangspunkt i denne opgave, så kunne en løsning se ud således:
 
 ___
 

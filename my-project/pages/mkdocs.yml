@@ -1,12 +1,10 @@
-site_name: Mikkel Krüger Larsen - Professionsbachelor i IT-sikkerhed
+site_name: Mikkel Krüger Larsen - Professionsbachelor i it-sikkerhed
 nav:
   - Hjem: index.md
-  - Markdown test: markdown.md
-  - Notes: notes.md
   - Skabelon: Skabelon.md
 theme:
   name: material
-  features: 
+  features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
@@ -20,19 +18,20 @@ theme:
       primary: indigo
       accent: orange
       toggle:
-        icon: material/toggle-switch
+        icon: material/eye
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: orange
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/eye-outline
         name: Switch to light mode
   shortcuts:
     help: 191
     next: 78
     previous: 80
     search: 83
+  
 markdown_extensions:
 - pymdownx.highlight:
     anchor_linenums: true
@@ -41,3 +40,18 @@ markdown_extensions:
 - pymdownx.inlinehilite
 - pymdownx.snippets
 - pymdownx.superfences
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Mikk391e
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/Mikk391e
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mikkel-kr%C3%BCger-larsen-6061b385/
+    - icon: fontawesome/solid/paper-plane
+      link: mikkelkrugelarsen@gmail.com
+copyright: Copyright &copy; 2025 Mikkel Krüger Larsen
+
+    
