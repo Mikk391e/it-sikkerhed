@@ -2,8 +2,12 @@ site_name: Mikkel Krüger Larsen - Professionsbachelor i it-sikkerhed
 nav:
   - Hjem: index.md
   - Skabelon: Skabelon.md
+repo_url: https://gitlab.com/Mikk391e/it-sikkerhed
+repo_name: Mikk391e/it-sikkerhed
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/gitlab
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -13,6 +17,7 @@ theme:
     - navigation.top
     - content.code.annotate
     - toc.follow
+    - header.autohide
   palette:
     - scheme: default
       primary: indigo
