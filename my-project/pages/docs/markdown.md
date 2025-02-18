@@ -9,7 +9,7 @@ Dette er et
 
 Dette er et billede
 
-![alt text](gigachad.jpg)
+![alt text](Images/gigachad.jpggigachad.jpg)
 
 
 | Item        | In stock | Price | Description |
