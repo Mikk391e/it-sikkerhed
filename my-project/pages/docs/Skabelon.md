@@ -51,4 +51,9 @@ Som minimum vil dokumentation af en øvelse indeholde:
 
 1. Lav et markdown dokument, i dit gtilab dokumentations projekt, du kan bruge som skabelon til dokumentation af øvelser.
 2. Dokumentér hvordan du har løst denne øvelse, brug din skabelon og push det til gitlab.
+Det her er billedet af min fil på gitlab:
+    ![BilledeAfGitlabFil](Images/Skabelon_gitlab.png)
+Det her er billederne af min kode i VS Code:
+    ![BilledeAfSkabelonMD1/2](Images/Skabelon_md1-2.png)
+    ![BilledeAfSkabelonMD2/2](Images/Skabelon_md2-2.png)
 3. Send linket til en på dit team og spørg om personen vil vurdere og give feedback på din dokumentation.
