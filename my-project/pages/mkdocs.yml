@@ -1,6 +1,43 @@
-site_name: Mikkel Krüger Larsen
+site_name: Mikkel Krüger Larsen - Professionsbachelor i IT-sikkerhed
 nav:
-  - Home: index.md
-  - About: about.md
-  - Markdown: markdown.md
+  - Hjem: index.md
+  - Markdown test: markdown.md
   - Notes: notes.md
+  - Skabelon: Skabelon.md
+theme:
+  name: material
+  features: 
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.annotate
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  shortcuts:
+    help: 191
+    next: 78
+    previous: 80
+    search: 83
+markdown_extensions:
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.superfences

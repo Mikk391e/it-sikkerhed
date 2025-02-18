@@ -35,11 +35,9 @@ Dette er et billede
 
 ***This is both***
 
-```yml
+``` yaml title="Dette er en kodeblok, skrevet med yaml syntax"
 site_name: Mikkel Krüger Larsen
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
-
 ```

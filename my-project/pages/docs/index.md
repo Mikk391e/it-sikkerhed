@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Velkommen til min Gitlab Pages side!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Her vil jeg dokumentere mit arbejde i løbet af min uddannelsestid.
 
-## Commands
+## Funktioner på min side
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+På siderne understøttes både light og dark mode.
+Herudover er der også en række tastaturgenveje.
 
-## Project layout
+### Kommandoer
+- Tastaturgenveje:
+    - S: Åbner søgefeltet
+    - N: Går til næste side i navigationsbaren
+    - P: Går til forrige side i navigationsbaren
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

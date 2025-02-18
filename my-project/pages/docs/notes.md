@@ -1,4 +1,5 @@
-# Paste det her i starten af din .bashrc fil for at starte ssh-agenten og tilføje din private key
+# Her vil jeg skrive lidt tilfældigt, som er godt at vide
+## Paste det her i starten af din .bashrc fil for at starte ssh-agenten og tilføje din private key, hvis du bruger Ubuntu i WSL
 ```bash
 SSH_ENV="$HOME/.ssh/agent-environment"
 function start_agent {
