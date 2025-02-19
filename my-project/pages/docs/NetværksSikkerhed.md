@@ -16,6 +16,3 @@
 
 [Øvelse 13 - Protokolforståelse](Exercises/Netsec/Uge%208/Øvelse13.md)
 
-[Øvelse 50 - Netværksdiagrammer](Exercises/Netsec/Uge%208/Øvelse50.md)
-
-
