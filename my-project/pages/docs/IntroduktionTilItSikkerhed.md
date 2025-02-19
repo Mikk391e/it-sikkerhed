@@ -7,4 +7,4 @@
 [Øvelse 28 - CIA modellen](Exercises/it-sikkerhed/Uge7/Øvelse28.md)
 
 ## Uge 8 øvelser
-[Øvelse 90 - Dokumentation](Skabelon.md)
+[Øvelse 98 - Dokumentation](Skabelon.md)
