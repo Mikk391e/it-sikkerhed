@@ -7,3 +7,14 @@
 ## Uge 7 øvelser
 
 [Øvelse 20 - OPNsense i virtualbox](Exercises/Netsec/Uge7/Øvelse20.md)
+
+## Uge 8 øvelser
+
+[Øvelse 11 - ](Exercises/Netsec/Uge%208/Øvelse11.md)
+
+[Øvelse 12 - ](Exercises/Netsec/Uge%208/Øvelse12.md)
+
+[Øvelse 13 - ](Exercises/Netsec/Uge%208/Øvelse13.md)
+
+[Øvelse 50 - Netværksdiagrammer](Exercises/Netsec/Uge%208/Øvelse14.md)
+
