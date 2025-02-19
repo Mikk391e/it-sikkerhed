@@ -60,4 +60,20 @@ Det her er billederne af min kode i VS Code:
     (Hvis billederne er svære at se, kan disse ses i Gitlab repositoriet)
 
 3. Send linket til en på dit team og spørg om personen vil vurdere og give feedback på din dokumentation.
+    ![img](Images/Feedback.png)
 
+## Links
+
+[Øvelse 1 - Markdown](https://ucl-pba-its.gitlab.io/25f-its-intro/exercises/1_intro_opgave_markdown/)
+
+[Øvelse 2 - Gitlab og ssh nøgler](https://ucl-pba-its.gitlab.io/25f-its-intro/exercises/2_intro_opgave_git_gitlab_ssh/)
+
+[Øvelse 3 - Gitlab pages](https://ucl-pba-its.gitlab.io/25f-its-intro/exercises/3_intro_opgave_gitlab_pages/)
+
+Herunder er et par eksempler der kan give inspiration til forskellige måder at dokumentere på:
+
+- Trusselsmodelligerings manifestet https://www.threatmodelingmanifesto.org/
+
+- Offensive security red team report https://redteam.guide/docs/Templates/report_template
+
+- Gitlab bug report https://gitlab.com/gitlab-org/gitlab/blob/master/.gitlab/issue_templates/Bug.md
