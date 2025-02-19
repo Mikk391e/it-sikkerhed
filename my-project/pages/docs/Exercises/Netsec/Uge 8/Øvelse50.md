@@ -28,3 +28,7 @@ Formålet er også at få repeteret fundamentale begreber som IP adresser, VLAN'
     Teksten er inkluderet i selve billedet af diagrammerne
 
 3. Diagrammerne skal dokumenteres på jeres gitlab pages. Noter evt. spørgsmål eller tvivl som en del af dokumentationen så jeg kan bruge det i den feedback jeg giver jer i næste undervisningsgang.
+
+## Ressourcer
+
+[Tips for mapping your network diagram](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/tips-for-mapping-your-network-diagram)
