@@ -10,7 +10,7 @@
 
 ## Ressourcer
 
-Hvis vi udgangspunkt i denne opgave, så kunne en løsning se ud således:
+Hvis vi tager udgangspunkt i denne opgave, så kunne en løsning se ud således:
 
 ___
 
