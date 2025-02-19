@@ -5,7 +5,7 @@ nav:
   - Intro til it-sikkerhed: IntroduktionTilItSikkerhed.md
   - System sikkerhed: SystemSikkerhed.md
   - Projekt og Rapport: ProjektOgRapport.md
-  - Netværk og kommunikationssikkerhed: NetværksSikkerhed.md
+  - Netværks- og kommunikationssikkerhed: NetværksSikkerhed.md
 repo_url: https://gitlab.com/Mikk391e/it-sikkerhed
 repo_name: Mikk391e/it-sikkerhed
 theme:
