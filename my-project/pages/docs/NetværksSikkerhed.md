@@ -18,3 +18,4 @@
 
 [Øvelse 50 - Netværksdiagrammer](Exercises/Netsec/Uge%208/Øvelse50.md)
 
+
