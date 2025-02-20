@@ -16,4 +16,8 @@
 
 [Øvelse 13 - Protokolforståelse](Exercises/Netsec/Uge8/Øvelse13.md)
 
+[Øvelse 23 - opnsense udforskning](Exercises/Netsec/Uge8/Øvelse23.md) 
+
+[Øvelse 40 - Nmap Basic Port Scans](Exercises/Netsec/Uge8/Øvelse40.md)
+
 [Øvelse 50 - Netværksdiagrammer](Exercises/Netsec/Uge8/Øvelse50.md)
