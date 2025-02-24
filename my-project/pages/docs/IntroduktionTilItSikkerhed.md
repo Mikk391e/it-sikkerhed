@@ -8,3 +8,10 @@
 
 ## Uge 8 øvelser
 [Øvelse 98 - Dokumentation](Skabelon.md)
+
+## Uge 9 øvelser
+[Øvelse 16 - Opsætning af virtuelle maskiner i VirtualBox](Exercises/it-sikkerhed/Uge9/Øvelse16.md)
+
+[Øvelse 18 - Opsætning af virtuelle maskiner i VirtualBox](Exercises/it-sikkerhed/Uge9/Øvelse16.md)
+
+[Øvelse 26 - Wireshark analyse](Exercises/it-sikkerhed/Uge9/Øvelse26.md)
