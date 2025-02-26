@@ -29,3 +29,5 @@
 [Øvelse 51 - Netværksdesign med netværkssegmentering](Exercises/Netsec/Uge9/Øvelse51.md)
 
 [Øvelse 60 - Viden om firewalls](Exercises/Netsec/Uge9/Øvelse60.md)
+
+[Øvelse 52 - Praktisk netværkssegmentering i virtual box med opnsense](Exercises/Netsec/Uge9/Øvelse52.md)
