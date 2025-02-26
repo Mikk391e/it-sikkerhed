@@ -21,3 +21,11 @@
 [Øvelse 40 - Nmap Basic Port Scans](Exercises/Netsec/Uge8/Øvelse40.md)
 
 [Øvelse 50 - Netværksdiagrammer](Exercises/Netsec/Uge8/Øvelse50.md)
+
+## Uge 9 øvelser
+
+[Øvelse 41 - Nmap wireshark](Exercises/Netsec/Uge9/Øvelse41.md)
+
+[Øvelse 51 - Netværksdesign med netværkssegmentering](Exercises/Netsec/Uge9/Øvelse51.md)
+
+[Øvelse 60 - Viden om firewalls](Exercises/Netsec/Uge9/Øvelse60.md)
