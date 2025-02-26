@@ -20,8 +20,8 @@ Formålet er også at få repeteret fundamentale begreber som IP adresser, VLAN'
 1. Ovenstående diagrammer skal laves pænt - ie. find et passende diagram værktøj, og lav jeres egen version af det. (Jeg bruger draw.io med cisco symbolerne. Draw.io kan installeres lokalt, men også som udvidelse i visual studio code)
 
     Ud fra diagrammet har jeg, i samarbejde med min gruppe, udarbejdet følgende fysisk og logisk diagram:
-        ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2050/Screenshot%202025-02-19%20141424.png)
-        ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2050/logiskNetværk.png)
+        ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2050/fysisk_Diagram.png)
+        ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2050/logisk_netværk.png)
 
 2. Tilføj noget associeret tekst der beskriver hvad man ser.
 
