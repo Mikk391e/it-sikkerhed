@@ -13,3 +13,7 @@
 ## Uge 8 øvelser
 
 [Øvelse 4 - Peer review af Problemformulering](Exercises/ProjektOgRapport/Uge8/Øvelse4.md)
+
+## Uge 9 øvelser
+
+[Øvelse 7: Empiri & Data](Exercises/ProjektOgRapport/Uge9/Øvelse7.md)

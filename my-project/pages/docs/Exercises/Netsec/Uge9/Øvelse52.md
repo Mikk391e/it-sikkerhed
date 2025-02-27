@@ -21,17 +21,20 @@ Assign nyt interface, kald det `management`
 *Konfigurer interfacet som følgende*
 
 ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_3.png)
+
 ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_4.png)
+
 ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_5.png)
 
 *Tænd for DHCP på netværket og tildel følgende DHCP range*
 
 ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_6.png)
-![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_7.png)
 
+![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_7.png)
 4. Tilslut en ny VM til vmnet3 og bekræft at maskinen får tildelt en IP i den ip range du har konfigureret på interfacet.
 
 ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_8.png)
+
 ![img](../../../Images/ØvelsesBilleder/Netsec/Øvelse%2052/opnsense_new_network_9.png)
 
 

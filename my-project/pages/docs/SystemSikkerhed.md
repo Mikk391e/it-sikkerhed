@@ -18,3 +18,5 @@
 [Opgave 47 - CIS18 kontroller](Exercises/SystemSikkerhed/Uge8/Øvelse47.md)
 
 [Opgave 48.1 - (Gruppeopgave) Ubuntu CIS Benchmarks](Exercises/SystemSikkerhed/Uge8/Øvelse48.1.md)
+
+[]
