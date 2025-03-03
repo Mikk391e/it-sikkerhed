@@ -17,3 +17,7 @@
 ## Uge 9 øvelser
 
 [Øvelse 7: Empiri & Data](Exercises/ProjektOgRapport/Uge9/Øvelse7.md)
+
+## Uge 10 øvelser
+
+[Øvelse 8: Kvalitativ dataindsamling og analyse](Exercises/ProjektOgRapport/Uge10/Øvelse8.md)
